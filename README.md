@@ -10,9 +10,9 @@ E depois você relaciona as duas classes.
 
 Lingaguens e técnicas
 ---------------------
-Java
-Mysql
-Xampp
-Netbeans
-Programação Orientada a Objeto
+Java,
+Mysql,
+Xampp,
+Netbeans,
+Programação Orientada a Objeto,
 Modelo MVC
